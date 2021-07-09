@@ -1,4 +1,12 @@
-### Hi 🤟🏽
+<h3>Ahoy, I'm Lucas Mortoni! ✌🏽</h3>
+<p>I've got a Bachelor of Science in Information Technology.</p>
+<!-- ADD MORE TEXT ABOUT ME --->
+
+<h5>📍 Based in Brasília, Brazil</h5>
+
+
+
+
 
 <!--
 **lucasmortoni/lucasmortoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
