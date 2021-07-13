@@ -2,7 +2,7 @@
 <p>I've got a Bachelor of Science in Information Technology.</p>
 <!-- ADD MORE TEXT ABOUT ME --->
 
-<h5>📍 Based in Brasília, Brazil</h5>
+<h5>📍 Based in <b>Brasília</b>, <b>Brazil</b></h5>
 
 
 
